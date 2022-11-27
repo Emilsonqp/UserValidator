@@ -3,8 +3,6 @@
 ### Requerimientos del proyecto
 
 - python 3.8.10
-- ffmpeg 4.2.4-1ubuntu0.1
-- redis 5.0.7
 
 ### Instrucciones para construir el proyecto
 
